@@ -1,5 +1,7 @@
-# Caracterización de sensores de imagen CMOS
+# Characterization of CMOS Image Sensors
 
-El presente trabajo tiene como objetivo la caracterización de sensores de imagen CMOS, para ello se realizará la caracterización de un sensor de la marca Teledyne Anafocus.
+This work aims to characterize CMOS image sensors. To achieve this, the characterization of a sensor from the Teledyne Anafocus brand will be carried out.
 
-Para ello se ha desarrollado una librería PYthon para el estándar de la EMVA 1288, que es un estándar de la European Machine Vision Association (EMVA) que define un método de medición de las características de los sensores de imagen.
+For this purpose, a Python library has been developed for the EMVA 1288 standard, which is a standard from the European Machine Vision Association (EMVA) that defines a method for measuring the characteristics of image sensors.
+
+This project is in spanish.
